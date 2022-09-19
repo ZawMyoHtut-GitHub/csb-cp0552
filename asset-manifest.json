@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://zawmyohtut-github.github.io/csb-cp0552/static/css/main.b796d6c5.chunk.css",
+    "main.js": "https://zawmyohtut-github.github.io/csb-cp0552/static/js/main.3df0396e.chunk.js",
+    "main.js.map": "https://zawmyohtut-github.github.io/csb-cp0552/static/js/main.3df0396e.chunk.js.map",
+    "runtime-main.js": "https://zawmyohtut-github.github.io/csb-cp0552/static/js/runtime-main.2ea48460.js",
+    "runtime-main.js.map": "https://zawmyohtut-github.github.io/csb-cp0552/static/js/runtime-main.2ea48460.js.map",
+    "static/js/2.6e08e8be.chunk.js": "https://zawmyohtut-github.github.io/csb-cp0552/static/js/2.6e08e8be.chunk.js",
+    "static/js/2.6e08e8be.chunk.js.map": "https://zawmyohtut-github.github.io/csb-cp0552/static/js/2.6e08e8be.chunk.js.map",
+    "index.html": "https://zawmyohtut-github.github.io/csb-cp0552/index.html",
+    "static/css/main.b796d6c5.chunk.css.map": "https://zawmyohtut-github.github.io/csb-cp0552/static/css/main.b796d6c5.chunk.css.map",
+    "static/js/2.6e08e8be.chunk.js.LICENSE.txt": "https://zawmyohtut-github.github.io/csb-cp0552/static/js/2.6e08e8be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ea48460.js",
+    "static/js/2.6e08e8be.chunk.js",
+    "static/css/main.b796d6c5.chunk.css",
+    "static/js/main.3df0396e.chunk.js"
+  ]
+}
